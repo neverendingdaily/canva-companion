@@ -1,0 +1,3353 @@
+[
+  {
+    "id": "visual-suite",
+    "nameJA": "ビジュアルスイート",
+    "nameEN": "Visual Suite",
+    "aliases": [
+      "デザイン",
+      "制作"
+    ],
+    "category": "基本デザイン",
+    "summary": "文書、プレゼン、画像、動画などを横断して制作するCanvaの製品群。",
+    "useCases": [
+      "デザイン",
+      "制作"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "design-editor",
+    "nameJA": "デザインエディター",
+    "nameEN": "Design Editor",
+    "aliases": [
+      "編集",
+      "レイアウト"
+    ],
+    "category": "基本デザイン",
+    "summary": "キャンバス上に文字、画像、素材を配置してデザインを編集する。",
+    "useCases": [
+      "編集",
+      "レイアウト"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "templates",
+    "nameJA": "テンプレート",
+    "nameEN": "Templates",
+    "aliases": [
+      "ひな形",
+      "雛形"
+    ],
+    "category": "基本デザイン",
+    "summary": "既成のレイアウトを出発点にデザインを作る。",
+    "useCases": [
+      "ひな形",
+      "雛形"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "premium-templates",
+    "nameJA": "プレミアムテンプレート",
+    "nameEN": "Premium Templates",
+    "aliases": [
+      "有料",
+      "テンプレ"
+    ],
+    "category": "基本デザイン",
+    "summary": "有料素材を含むテンプレートの候補。利用条件は個別に確認する。",
+    "useCases": [
+      "有料",
+      "テンプレ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "elements",
+    "nameJA": "素材",
+    "nameEN": "Elements",
+    "aliases": [
+      "素材",
+      "パーツ"
+    ],
+    "category": "基本デザイン",
+    "summary": "図形、イラスト、写真などをデザインへ挿入する。",
+    "useCases": [
+      "素材",
+      "パーツ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "stock-photos",
+    "nameJA": "ストック写真",
+    "nameEN": "Stock Photos",
+    "aliases": [
+      "写真",
+      "画像"
+    ],
+    "category": "基本デザイン",
+    "summary": "Canvaのライブラリにある写真を制作に利用する。",
+    "useCases": [
+      "写真",
+      "画像"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "stock-videos",
+    "nameJA": "ストック動画",
+    "nameEN": "Stock Videos",
+    "aliases": [
+      "動画",
+      "素材"
+    ],
+    "category": "基本デザイン",
+    "summary": "Canvaのライブラリにある動画素材を制作に利用する。",
+    "useCases": [
+      "動画",
+      "素材"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "text-editing",
+    "nameJA": "テキスト編集",
+    "nameEN": "Text Editing",
+    "aliases": [
+      "文字",
+      "文章"
+    ],
+    "category": "基本デザイン",
+    "summary": "見出しや本文を追加し、文字組みを調整する。",
+    "useCases": [
+      "文字",
+      "文章"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "frames",
+    "nameJA": "フレーム",
+    "nameEN": "Frames",
+    "aliases": [
+      "切り抜き",
+      "画像"
+    ],
+    "category": "基本デザイン",
+    "summary": "写真や動画を所定の形に収めて配置する。",
+    "useCases": [
+      "切り抜き",
+      "画像"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "grids",
+    "nameJA": "グリッド",
+    "nameEN": "Grids",
+    "aliases": [
+      "コラージュ",
+      "配置"
+    ],
+    "category": "基本デザイン",
+    "summary": "複数の画像を整然と並べるレイアウトを作る。",
+    "useCases": [
+      "コラージュ",
+      "配置"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "layers",
+    "nameJA": "レイヤー",
+    "nameEN": "Layers",
+    "aliases": [
+      "重なり",
+      "順序"
+    ],
+    "category": "基本デザイン",
+    "summary": "重なった要素の前後関係を管理する。",
+    "useCases": [
+      "重なり",
+      "順序"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "draw",
+    "nameJA": "描画",
+    "nameEN": "Draw",
+    "aliases": [
+      "手描き",
+      "ペン"
+    ],
+    "category": "基本デザイン",
+    "summary": "手描きの線や注釈をデザインに加える。",
+    "useCases": [
+      "手描き",
+      "ペン"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "custom-dimensions",
+    "nameJA": "カスタムサイズ",
+    "nameEN": "Custom Dimensions",
+    "aliases": [
+      "サイズ",
+      "寸法"
+    ],
+    "category": "基本デザイン",
+    "summary": "制作物の幅と高さを指定して新規デザインを作る。",
+    "useCases": [
+      "サイズ",
+      "寸法"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-ai",
+    "nameJA": "Canva AI",
+    "nameEN": "Canva AI",
+    "aliases": [
+      "AI",
+      "生成"
+    ],
+    "category": "Canva AI",
+    "summary": "文章による指示からデザインやコンテンツの制作を支援する。",
+    "useCases": [
+      "AI",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-ai-2-0",
+    "nameJA": "Canva AI 2.0",
+    "nameEN": "Canva AI 2.0",
+    "aliases": [
+      "AI",
+      "会話"
+    ],
+    "category": "Canva AI",
+    "summary": "会話型制作や編集などを統合する新しいCanva AIの構想。",
+    "useCases": [
+      "AI",
+      "会話"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "正式提供",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで対象プラン・概要確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "conversational-design",
+    "nameJA": "会話型デザイン",
+    "nameEN": "Conversational Design",
+    "aliases": [
+      "対話",
+      "制作"
+    ],
+    "category": "Canva AI",
+    "summary": "対話を通してデザインを作成・修正するワークフロー。",
+    "useCases": [
+      "対話",
+      "制作"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-design-model",
+    "nameJA": "Canva Design Model",
+    "nameEN": "Canva Design Model",
+    "aliases": [
+      "生成",
+      "階層"
+    ],
+    "category": "Canva AI",
+    "summary": "編集可能な階層化デザイン生成に関わる基盤モデル。",
+    "useCases": [
+      "生成",
+      "階層"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "web-research",
+    "nameJA": "ウェブリサーチ",
+    "nameEN": "Web Research",
+    "aliases": [
+      "調査",
+      "検索"
+    ],
+    "category": "Canva AI",
+    "summary": "Canva AIからWeb上の情報を調べて制作に活用する候補機能。",
+    "useCases": [
+      "調査",
+      "検索"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "scheduled-tasks",
+    "nameJA": "スケジュールタスク",
+    "nameEN": "Scheduled Tasks",
+    "aliases": [
+      "定期",
+      "予約"
+    ],
+    "category": "Canva AI",
+    "summary": "Canva AIで調査などの作業を予定する候補機能。",
+    "useCases": [
+      "定期",
+      "予約"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-intelligence",
+    "nameJA": "ブランドインテリジェンス",
+    "nameEN": "Brand Intelligence",
+    "aliases": [
+      "ブランド",
+      "統一"
+    ],
+    "category": "Canva AI",
+    "summary": "ブランドのスタイルを生成物に反映する候補機能。",
+    "useCases": [
+      "ブランド",
+      "統一"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-ai-connectors",
+    "nameJA": "AIコネクター",
+    "nameEN": "Canva AI Connectors",
+    "aliases": [
+      "接続",
+      "連携"
+    ],
+    "category": "Canva AI",
+    "summary": "外部情報源とCanva AIを接続する候補機能。",
+    "useCases": [
+      "接続",
+      "連携"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで対象プランを確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "memory-library",
+    "nameJA": "メモリーライブラリ",
+    "nameEN": "Memory Library",
+    "aliases": [
+      "記憶",
+      "再利用"
+    ],
+    "category": "Canva AI",
+    "summary": "Canva AIの制作文脈を再利用する候補機能。",
+    "useCases": [
+      "記憶",
+      "再利用"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで対象プランを確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-design",
+    "nameJA": "マジックデザイン",
+    "nameEN": "Magic Design",
+    "aliases": [
+      "デザイン",
+      "生成"
+    ],
+    "category": "Magic Studio",
+    "summary": "入力内容に合わせてデザイン案を生成する。",
+    "useCases": [
+      "デザイン",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-write",
+    "nameJA": "マジック作文",
+    "nameEN": "Magic Write",
+    "aliases": [
+      "文章",
+      "ライティング"
+    ],
+    "category": "Magic Studio",
+    "summary": "文章の作成や書き換えを支援する。",
+    "useCases": [
+      "文章",
+      "ライティング"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-resize",
+    "nameJA": "マジックリサイズ",
+    "nameEN": "Magic Resize",
+    "aliases": [
+      "サイズ変更",
+      "リサイズ"
+    ],
+    "category": "Magic Studio",
+    "summary": "デザインのサイズ変更を支援する。",
+    "useCases": [
+      "サイズ変更",
+      "リサイズ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/resize/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-switch",
+    "nameJA": "マジックスイッチ",
+    "nameEN": "Magic Switch",
+    "aliases": [
+      "変換",
+      "形式"
+    ],
+    "category": "Magic Studio",
+    "summary": "デザインの形式や言語などを切り替える制作支援。",
+    "useCases": [
+      "変換",
+      "形式"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-animate",
+    "nameJA": "マジックアニメート",
+    "nameEN": "Magic Animate",
+    "aliases": [
+      "アニメーション",
+      "動き"
+    ],
+    "category": "Magic Studio",
+    "summary": "デザインの動きを提案または適用する。",
+    "useCases": [
+      "アニメーション",
+      "動き"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-morph",
+    "nameJA": "マジックモーフ",
+    "nameEN": "Magic Morph",
+    "aliases": [
+      "装飾",
+      "生成"
+    ],
+    "category": "Magic Studio",
+    "summary": "文字や形に生成効果を与える。",
+    "useCases": [
+      "装飾",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "translate",
+    "nameJA": "翻訳",
+    "nameEN": "Translate",
+    "aliases": [
+      "多言語",
+      "翻訳"
+    ],
+    "category": "Magic Studio",
+    "summary": "デザイン内の文章を別の言語に変換する。",
+    "useCases": [
+      "多言語",
+      "翻訳"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-media",
+    "nameJA": "マジックメディア",
+    "nameEN": "Magic Media",
+    "aliases": [
+      "画像生成",
+      "動画生成"
+    ],
+    "category": "Magic Studio",
+    "summary": "指示文から画像や動画などのメディアを生成する。",
+    "useCases": [
+      "画像生成",
+      "動画生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/using-canva-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "photo-editor",
+    "nameJA": "写真エディター",
+    "nameEN": "Photo Editor",
+    "aliases": [
+      "写真",
+      "補正"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真の明るさ、色、構図などを編集する。",
+    "useCases": [
+      "写真",
+      "補正"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "background-remover",
+    "nameJA": "背景リムーバー",
+    "nameEN": "Background Remover",
+    "aliases": [
+      "背景透過",
+      "切り抜き"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真の背景を自動で取り除く。",
+    "useCases": [
+      "背景透過",
+      "切り抜き"
+    ],
+    "limitations": "写真は9MB未満。高解像度画像は処理時に縮小される場合があります。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "有料プラン",
+    "availability": "正式提供",
+    "steps": [
+      "エディターで写真を選択します。",
+      "ツールバーから「BG Remover」を選択します。",
+      "処理結果を確認します。"
+    ],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/en_gb/help/background-remover-variantb/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "video-background-remover",
+    "nameJA": "動画背景リムーバー",
+    "nameEN": "Video Background Remover",
+    "aliases": [
+      "動画",
+      "背景",
+      "消す"
+    ],
+    "category": "動画・音声",
+    "summary": "動画の被写体を残し背景を取り除く。",
+    "useCases": [
+      "動画",
+      "背景",
+      "消す"
+    ],
+    "limitations": "元動画の長さが10分未満。トリミング後も元の長さで判定。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "有料プラン",
+    "availability": "正式提供",
+    "steps": [
+      "エディターで動画を選択します。",
+      "ツールバーから「BG Remover」を選択します。",
+      "背景除去の結果を確認します。"
+    ],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/en_gb/help/background-remover-variantb/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-edit",
+    "nameJA": "マジック編集",
+    "nameEN": "Magic Edit",
+    "aliases": [
+      "写真",
+      "置換"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真の一部を選んで生成AIで変更する。",
+    "useCases": [
+      "写真",
+      "置換"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-eraser",
+    "nameJA": "マジック消しゴム",
+    "nameEN": "Magic Eraser",
+    "aliases": [
+      "削除",
+      "不要物"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真から不要な対象を取り除く。",
+    "useCases": [
+      "削除",
+      "不要物"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/magic-eraser/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-grab",
+    "nameJA": "マジックグラブ",
+    "nameEN": "Magic Grab",
+    "aliases": [
+      "被写体",
+      "移動"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真内の被写体を編集可能な要素として扱う。",
+    "useCases": [
+      "被写体",
+      "移動"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-expand",
+    "nameJA": "マジック拡張",
+    "nameEN": "Magic Expand",
+    "aliases": [
+      "拡張",
+      "余白"
+    ],
+    "category": "写真・画像編集",
+    "summary": "画像の外側を生成して構図を広げる。",
+    "useCases": [
+      "拡張",
+      "余白"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "background-generator",
+    "nameJA": "背景生成",
+    "nameEN": "Background Generator",
+    "aliases": [
+      "背景",
+      "生成"
+    ],
+    "category": "写真・画像編集",
+    "summary": "写真に合う背景を生成する。",
+    "useCases": [
+      "背景",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "image-upscaler",
+    "nameJA": "画像アップスケーラー",
+    "nameEN": "Image Upscaler",
+    "aliases": [
+      "高画質",
+      "拡大"
+    ],
+    "category": "写真・画像編集",
+    "summary": "画像の解像感を高める処理。",
+    "useCases": [
+      "高画質",
+      "拡大"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "mockups",
+    "nameJA": "モックアップ",
+    "nameEN": "Mockups",
+    "aliases": [
+      "商品",
+      "見本"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "端末や商品などの見本にデザインを合成する。",
+    "useCases": [
+      "商品",
+      "見本"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "video-editor",
+    "nameJA": "動画エディター",
+    "nameEN": "Video Editor",
+    "aliases": [
+      "動画",
+      "編集"
+    ],
+    "category": "動画・音声",
+    "summary": "動画クリップ、音声、文字を並べて編集する。",
+    "useCases": [
+      "動画",
+      "編集"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "ai-video-generator",
+    "nameJA": "AI動画生成",
+    "nameEN": "AI Video Generator",
+    "aliases": [
+      "動画",
+      "生成"
+    ],
+    "category": "動画・音声",
+    "summary": "文章などから動画素材を生成する候補機能。",
+    "useCases": [
+      "動画",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "image-to-video",
+    "nameJA": "画像から動画",
+    "nameEN": "Image to Video",
+    "aliases": [
+      "動画化",
+      "生成"
+    ],
+    "category": "動画・音声",
+    "summary": "静止画をもとに動画を作る候補機能。",
+    "useCases": [
+      "動画化",
+      "生成"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "beat-sync",
+    "nameJA": "ビートシンク",
+    "nameEN": "Beat Sync",
+    "aliases": [
+      "音楽",
+      "同期"
+    ],
+    "category": "動画・音声",
+    "summary": "音楽の拍に合わせて動画のタイミングを調整する。",
+    "useCases": [
+      "音楽",
+      "同期"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "highlights",
+    "nameJA": "ハイライト",
+    "nameEN": "Highlights",
+    "aliases": [
+      "短尺",
+      "切り抜き"
+    ],
+    "category": "動画・音声",
+    "summary": "長い動画から見せ場を抽出する候補機能。",
+    "useCases": [
+      "短尺",
+      "切り抜き"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "enhance-voice",
+    "nameJA": "音声強調",
+    "nameEN": "Enhance Voice",
+    "aliases": [
+      "ノイズ",
+      "音声"
+    ],
+    "category": "動画・音声",
+    "summary": "録音音声の聞き取りやすさを改善する候補機能。",
+    "useCases": [
+      "ノイズ",
+      "音声"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "text-to-speech",
+    "nameJA": "テキスト読み上げ",
+    "nameEN": "Text to Speech",
+    "aliases": [
+      "音声",
+      "読み上げ"
+    ],
+    "category": "動画・音声",
+    "summary": "文章からナレーション音声を作る。",
+    "useCases": [
+      "音声",
+      "読み上げ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "music-generator",
+    "nameJA": "音楽生成",
+    "nameEN": "Music Generator",
+    "aliases": [
+      "BGM",
+      "音楽"
+    ],
+    "category": "動画・音声",
+    "summary": "制作物向けの音楽を生成する候補機能。",
+    "useCases": [
+      "BGM",
+      "音楽"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "video-captions",
+    "nameJA": "動画字幕",
+    "nameEN": "Video Captions",
+    "aliases": [
+      "字幕",
+      "キャプション"
+    ],
+    "category": "動画・音声",
+    "summary": "動画の発話内容などを字幕として表示する。",
+    "useCases": [
+      "字幕",
+      "キャプション"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/enable-captions/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "video-recording",
+    "nameJA": "動画録画",
+    "nameEN": "Video Recording",
+    "aliases": [
+      "録画",
+      "収録"
+    ],
+    "category": "動画・音声",
+    "summary": "画面やカメラの映像を収録して制作に使う。",
+    "useCases": [
+      "録画",
+      "収録"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/editing-designing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-code",
+    "nameJA": "Canva Code",
+    "nameEN": "Canva Code",
+    "aliases": [
+      "アプリ",
+      "診断",
+      "クイズ"
+    ],
+    "category": "Canva Code",
+    "summary": "自然文からインタラクティブなコンテンツを作る。",
+    "useCases": [
+      "アプリ",
+      "診断",
+      "クイズ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "正式提供",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/canva-code/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-code-2-0",
+    "nameJA": "Canva Code 2.0",
+    "nameEN": "Canva Code 2.0",
+    "aliases": [
+      "アプリ",
+      "HTML"
+    ],
+    "category": "Canva Code",
+    "summary": "HTML取り込みや編集可能なインタラクティブ制作に対応する新バージョン。",
+    "useCases": [
+      "アプリ",
+      "HTML"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "正式提供",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式料金表でPro対象を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "interactive-experiences",
+    "nameJA": "インタラクティブ体験",
+    "nameEN": "Interactive Experiences",
+    "aliases": [
+      "診断",
+      "体験"
+    ],
+    "category": "Canva Code",
+    "summary": "操作に応じて変化するコンテンツを制作する用途。",
+    "useCases": [
+      "診断",
+      "体験"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-code/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "quizzes",
+    "nameJA": "クイズ",
+    "nameEN": "Quizzes",
+    "aliases": [
+      "診断",
+      "質問"
+    ],
+    "category": "Canva Code",
+    "summary": "質問と回答を使うインタラクティブな体験の制作用途。",
+    "useCases": [
+      "診断",
+      "質問"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-code/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "forms",
+    "nameJA": "フォーム",
+    "nameEN": "Forms",
+    "aliases": [
+      "入力",
+      "収集"
+    ],
+    "category": "Canva Code",
+    "summary": "回答入力を受け付ける画面の制作用途。",
+    "useCases": [
+      "入力",
+      "収集"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-code/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "calculators",
+    "nameJA": "計算ツール",
+    "nameEN": "Calculators",
+    "aliases": [
+      "計算",
+      "ツール"
+    ],
+    "category": "Canva Code",
+    "summary": "入力値を用いた計算結果を表示する制作用途。",
+    "useCases": [
+      "計算",
+      "ツール"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-code/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "html-import",
+    "nameJA": "HTML取り込み",
+    "nameEN": "HTML Import",
+    "aliases": [
+      "HTML",
+      "インポート"
+    ],
+    "category": "Canva Code",
+    "summary": "既存のHTMLをCanva Code制作へ取り込む機能。",
+    "useCases": [
+      "HTML",
+      "インポート"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-code/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-sheets",
+    "nameJA": "Canva Sheets",
+    "nameEN": "Canva Sheets",
+    "aliases": [
+      "表計算",
+      "データ"
+    ],
+    "category": "Canva Sheets",
+    "summary": "表形式のデータを整理しデザイン制作に連携する。",
+    "useCases": [
+      "表計算",
+      "データ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/sheets/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-formulas",
+    "nameJA": "マジック数式",
+    "nameEN": "Magic Formulas",
+    "aliases": [
+      "関数",
+      "数式"
+    ],
+    "category": "Canva Sheets",
+    "summary": "表計算の数式作成を支援する。",
+    "useCases": [
+      "関数",
+      "数式"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/introducing-canva-sheets/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-insights",
+    "nameJA": "マジック分析",
+    "nameEN": "Magic Insights",
+    "aliases": [
+      "分析",
+      "洞察"
+    ],
+    "category": "Canva Sheets",
+    "summary": "表データから傾向や示唆を探す。",
+    "useCases": [
+      "分析",
+      "洞察"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/magic-insights/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-charts",
+    "nameJA": "マジックグラフ",
+    "nameEN": "Magic Charts",
+    "aliases": [
+      "グラフ",
+      "可視化"
+    ],
+    "category": "Canva Sheets",
+    "summary": "表データからグラフを作成する。",
+    "useCases": [
+      "グラフ",
+      "可視化"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/introducing-canva-sheets/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "csv-import",
+    "nameJA": "CSV取り込み",
+    "nameEN": "CSV Import",
+    "aliases": [
+      "CSV",
+      "データ"
+    ],
+    "category": "Canva Sheets",
+    "summary": "CSVファイルのデータを制作に取り込む。",
+    "useCases": [
+      "CSV",
+      "データ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/introducing-canva-sheets/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "bulk-create",
+    "nameJA": "一括作成",
+    "nameEN": "Bulk Create",
+    "aliases": [
+      "量産",
+      "100枚",
+      "CSV"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "表の各行を使ってデザインの複数版を作る。",
+    "useCases": [
+      "量産",
+      "100枚",
+      "CSV"
+    ],
+    "limitations": "Canva Sheetsからの一括作成は最大300行・150列。CSVまたはXLSXも利用できます。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "Pro対応",
+    "availability": "正式提供",
+    "steps": [
+      "デザインに差し込み対象のテキストやフレームを配置します。",
+      "アプリから「Bulk create」を開き、CSVまたは表データを指定します。",
+      "列とデザイン要素を紐づけて生成します。"
+    ],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "charts",
+    "nameJA": "グラフ",
+    "nameEN": "Charts",
+    "aliases": [
+      "可視化",
+      "データ"
+    ],
+    "category": "Canva Sheets",
+    "summary": "数値を棒や円などの図で表す。",
+    "useCases": [
+      "可視化",
+      "データ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/introducing-canva-sheets/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "tables",
+    "nameJA": "表",
+    "nameEN": "Tables",
+    "aliases": [
+      "表",
+      "データ"
+    ],
+    "category": "Canva Sheets",
+    "summary": "行列を使い情報を整理して見せる。",
+    "useCases": [
+      "表",
+      "データ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/introducing-canva-sheets/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-docs",
+    "nameJA": "Canva Docs",
+    "nameEN": "Canva Docs",
+    "aliases": [
+      "文書",
+      "記事"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "文章とデザイン要素を組み合わせた文書を作る。",
+    "useCases": [
+      "文書",
+      "記事"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "design-blocks",
+    "nameJA": "デザインブロック",
+    "nameEN": "Design Blocks",
+    "aliases": [
+      "文書",
+      "装飾"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "文書内に視覚的な構成要素を追加する。",
+    "useCases": [
+      "文書",
+      "装飾"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "presentations",
+    "nameJA": "プレゼンテーション",
+    "nameEN": "Presentations",
+    "aliases": [
+      "スライド",
+      "発表"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "スライドを作成し発表に利用する。",
+    "useCases": [
+      "スライド",
+      "発表"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "presenter-mode",
+    "nameJA": "発表者モード",
+    "nameEN": "Presenter Mode",
+    "aliases": [
+      "プレゼン",
+      "発表"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "プレゼン中に発表者向け表示を利用する。",
+    "useCases": [
+      "プレゼン",
+      "発表"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "pdf-editor",
+    "nameJA": "PDF編集",
+    "nameEN": "PDF Editor",
+    "aliases": [
+      "PDF",
+      "編集"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "PDFを読み込んで内容を編集する用途。",
+    "useCases": [
+      "PDF",
+      "編集"
+    ],
+    "limitations": "最大500ページ・300MB。スキャンまたはフラット化された文字は編集できない場合があります。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/import-and-edit-pdfs-canva/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "powerpoint-import",
+    "nameJA": "PowerPoint取り込み",
+    "nameEN": "PowerPoint Import",
+    "aliases": [
+      "pptx",
+      "スライド"
+    ],
+    "category": "文書・プレゼン",
+    "summary": "PowerPoint資料をCanvaで編集するために読み込む。",
+    "useCases": [
+      "pptx",
+      "スライド"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-websites",
+    "nameJA": "Canva Websites",
+    "nameEN": "Canva Websites",
+    "aliases": [
+      "サイト",
+      "Web"
+    ],
+    "category": "Web・メール",
+    "summary": "CanvaでWebページをデザインし公開する。",
+    "useCases": [
+      "サイト",
+      "Web"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/publishing-canva-websites/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "landing-pages",
+    "nameJA": "ランディングページ",
+    "nameEN": "Landing Pages",
+    "aliases": [
+      "LP",
+      "Web"
+    ],
+    "category": "Web・メール",
+    "summary": "特定の案内や申込に向けたWebページを制作する用途。",
+    "useCases": [
+      "LP",
+      "Web"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "website-publishing",
+    "nameJA": "Webサイト公開",
+    "nameEN": "Website Publishing",
+    "aliases": [
+      "公開",
+      "サイト"
+    ],
+    "category": "Web・メール",
+    "summary": "Canvaで作ったWebサイトを公開する。",
+    "useCases": [
+      "公開",
+      "サイト"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-email-design",
+    "nameJA": "メールデザイン",
+    "nameEN": "Canva Email Design",
+    "aliases": [
+      "メール",
+      "配信"
+    ],
+    "category": "Web・メール",
+    "summary": "メール用のビジュアルを制作する用途。",
+    "useCases": [
+      "メール",
+      "配信"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "website-embed",
+    "nameJA": "埋め込み",
+    "nameEN": "Website Embed",
+    "aliases": [
+      "埋め込み",
+      "Web"
+    ],
+    "category": "Web・メール",
+    "summary": "WebページなどにCanvaデザインを表示する用途。",
+    "useCases": [
+      "埋め込み",
+      "Web"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "instagram-posts",
+    "nameJA": "Instagram投稿",
+    "nameEN": "Instagram Posts",
+    "aliases": [
+      "インスタ",
+      "投稿"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "Instagramフィード向けの画像を制作する。",
+    "useCases": [
+      "インスタ",
+      "投稿"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "instagram-stories",
+    "nameJA": "Instagramストーリー",
+    "nameEN": "Instagram Stories",
+    "aliases": [
+      "インスタ",
+      "ストーリーズ"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "縦長の短期表示コンテンツを制作する。",
+    "useCases": [
+      "インスタ",
+      "ストーリーズ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "instagram-reels",
+    "nameJA": "Instagramリール",
+    "nameEN": "Instagram Reels",
+    "aliases": [
+      "インスタ",
+      "リール"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "Instagram向けの縦型短尺動画を制作する。",
+    "useCases": [
+      "インスタ",
+      "リール"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "youtube-shorts",
+    "nameJA": "YouTube Shorts",
+    "nameEN": "YouTube Shorts",
+    "aliases": [
+      "ショート",
+      "動画"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "YouTube向けの縦型短尺動画を制作する。",
+    "useCases": [
+      "ショート",
+      "動画"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "youtube-thumbnails",
+    "nameJA": "YouTubeサムネイル",
+    "nameEN": "YouTube Thumbnails",
+    "aliases": [
+      "サムネ",
+      "YouTube"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "動画内容を伝える一覧用画像を制作する。",
+    "useCases": [
+      "サムネ",
+      "YouTube"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "content-planner",
+    "nameJA": "コンテンツプランナー",
+    "nameEN": "Content Planner",
+    "aliases": [
+      "予約投稿",
+      "SNS"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "制作した投稿をカレンダーで管理し対応媒体へ予約投稿する。",
+    "useCases": [
+      "予約投稿",
+      "SNS"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "正式提供",
+    "steps": [
+      "ホームから「Content Planner」を開きます。",
+      "投稿するデザインと日時、投稿先を選択します。",
+      "内容を確認して予約します。"
+    ],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式ヘルプで概要・手順を確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "social-media-design",
+    "nameJA": "SNSデザイン",
+    "nameEN": "Social Media Design",
+    "aliases": [
+      "SNS",
+      "投稿"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "各ソーシャルメディア向けの制作物を作る。",
+    "useCases": [
+      "SNS",
+      "投稿"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/content-planner/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-kit",
+    "nameJA": "ブランドキット",
+    "nameEN": "Brand Kit",
+    "aliases": [
+      "ブランド",
+      "統一"
+    ],
+    "category": "ブランド管理",
+    "summary": "ロゴ、色、フォントなどのブランド要素を管理する。",
+    "useCases": [
+      "ブランド",
+      "統一"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-templates",
+    "nameJA": "ブランドテンプレート",
+    "nameEN": "Brand Templates",
+    "aliases": [
+      "ブランド",
+      "ひな形"
+    ],
+    "category": "ブランド管理",
+    "summary": "組織や個人のブランドに合わせたテンプレートを管理する。",
+    "useCases": [
+      "ブランド",
+      "ひな形"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-fonts",
+    "nameJA": "ブランドフォント",
+    "nameEN": "Brand Fonts",
+    "aliases": [
+      "フォント",
+      "書体"
+    ],
+    "category": "ブランド管理",
+    "summary": "ブランドで使う書体をまとめる。",
+    "useCases": [
+      "フォント",
+      "書体"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-colors",
+    "nameJA": "ブランドカラー",
+    "nameEN": "Brand Colors",
+    "aliases": [
+      "色",
+      "配色"
+    ],
+    "category": "ブランド管理",
+    "summary": "ブランドの配色を保存して使い回す。",
+    "useCases": [
+      "色",
+      "配色"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-logos",
+    "nameJA": "ブランドロゴ",
+    "nameEN": "Brand Logos",
+    "aliases": [
+      "ロゴ",
+      "ブランド"
+    ],
+    "category": "ブランド管理",
+    "summary": "ロゴ素材をまとめて制作に利用する。",
+    "useCases": [
+      "ロゴ",
+      "ブランド"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "brand-voice",
+    "nameJA": "ブランドボイス",
+    "nameEN": "Brand Voice",
+    "aliases": [
+      "文章",
+      "トーン"
+    ],
+    "category": "ブランド管理",
+    "summary": "文章の語調や表現方針を制作に反映する候補機能。",
+    "useCases": [
+      "文章",
+      "トーン"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "whiteboards",
+    "nameJA": "ホワイトボード",
+    "nameEN": "Whiteboards",
+    "aliases": [
+      "アイデア",
+      "共同作業"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "自由なキャンバスでアイデアを整理する。",
+    "useCases": [
+      "アイデア",
+      "共同作業"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "flowcharts",
+    "nameJA": "フローチャート",
+    "nameEN": "Flowcharts",
+    "aliases": [
+      "手順",
+      "フロー"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "手順や分岐を図にする。",
+    "useCases": [
+      "手順",
+      "フロー"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "mind-maps",
+    "nameJA": "マインドマップ",
+    "nameEN": "Mind Maps",
+    "aliases": [
+      "発想",
+      "アイデア"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "関連する考えを放射状に整理する。",
+    "useCases": [
+      "発想",
+      "アイデア"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "sticky-notes",
+    "nameJA": "付箋",
+    "nameEN": "Sticky Notes",
+    "aliases": [
+      "メモ",
+      "整理"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "ホワイトボード上で短いメモを並べる。",
+    "useCases": [
+      "メモ",
+      "整理"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "real-time-collaboration",
+    "nameJA": "リアルタイム共同編集",
+    "nameEN": "Real-time Collaboration",
+    "aliases": [
+      "共同",
+      "共有"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "複数人で同じデザインを編集する。",
+    "useCases": [
+      "共同",
+      "共有"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "comments",
+    "nameJA": "コメント",
+    "nameEN": "Comments",
+    "aliases": [
+      "レビュー",
+      "注釈"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "デザインに意見や修正依頼を残す。",
+    "useCases": [
+      "レビュー",
+      "注釈"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "version-history",
+    "nameJA": "変更履歴",
+    "nameEN": "Version History",
+    "aliases": [
+      "履歴",
+      "復元"
+    ],
+    "category": "ホワイトボード・共同作業",
+    "summary": "過去の編集状態を確認する。",
+    "useCases": [
+      "履歴",
+      "復元"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "transparent-background-export",
+    "nameJA": "透明背景書き出し",
+    "nameEN": "Transparent Background Export",
+    "aliases": [
+      "透過PNG",
+      "背景"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "背景を透明にした画像を書き出す。",
+    "useCases": [
+      "透過PNG",
+      "背景"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "png-export",
+    "nameJA": "PNG書き出し",
+    "nameEN": "PNG Export",
+    "aliases": [
+      "画像",
+      "ダウンロード"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "デザインをPNG画像として保存する。",
+    "useCases": [
+      "画像",
+      "ダウンロード"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "jpg-export",
+    "nameJA": "JPG書き出し",
+    "nameEN": "JPG Export",
+    "aliases": [
+      "画像",
+      "ダウンロード"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "デザインをJPEG画像として保存する。",
+    "useCases": [
+      "画像",
+      "ダウンロード"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "pdf-export",
+    "nameJA": "PDF書き出し",
+    "nameEN": "PDF Export",
+    "aliases": [
+      "PDF",
+      "ダウンロード"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "デザインをPDFとして保存する。",
+    "useCases": [
+      "PDF",
+      "ダウンロード"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "mp4-export",
+    "nameJA": "MP4書き出し",
+    "nameEN": "MP4 Export",
+    "aliases": [
+      "動画",
+      "ダウンロード"
+    ],
+    "category": "大量制作・書き出し",
+    "summary": "動画デザインをMP4として保存する。",
+    "useCases": [
+      "動画",
+      "ダウンロード"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-print",
+    "nameJA": "Canva Print",
+    "nameEN": "Canva Print",
+    "aliases": [
+      "印刷",
+      "注文"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "制作したデザインを印刷物として注文するサービス。",
+    "useCases": [
+      "印刷",
+      "注文"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/bulk-create/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "apps-marketplace",
+    "nameJA": "アプリマーケット",
+    "nameEN": "Apps Marketplace",
+    "aliases": [
+      "アプリ",
+      "拡張"
+    ],
+    "category": "Canva Apps",
+    "summary": "Canvaに追加できるアプリを探す。",
+    "useCases": [
+      "アプリ",
+      "拡張"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/apps/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "qr-code",
+    "nameJA": "QRコード",
+    "nameEN": "QR Code",
+    "aliases": [
+      "QR",
+      "リンク"
+    ],
+    "category": "Canva Apps",
+    "summary": "読み取り用コードをデザインに追加するアプリ候補。",
+    "useCases": [
+      "QR",
+      "リンク"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/apps/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "giphy",
+    "nameJA": "GIPHY",
+    "nameEN": "GIPHY",
+    "aliases": [
+      "GIF",
+      "アニメ"
+    ],
+    "category": "Canva Apps",
+    "summary": "GIF素材を探してデザインに使う連携アプリ候補。",
+    "useCases": [
+      "GIF",
+      "アニメ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/apps/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "youtube-app",
+    "nameJA": "YouTubeアプリ",
+    "nameEN": "YouTube App",
+    "aliases": [
+      "YouTube",
+      "連携"
+    ],
+    "category": "Canva Apps",
+    "summary": "YouTubeコンテンツをCanvaで扱う連携候補。",
+    "useCases": [
+      "YouTube",
+      "連携"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/apps/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-offline",
+    "nameJA": "オフライン利用",
+    "nameEN": "Canva Offline",
+    "aliases": [
+      "オフライン"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "ネット接続なしで利用できる範囲を確認するための項目。",
+    "useCases": [
+      "オフライン"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-courses",
+    "nameJA": "Canva Courses",
+    "nameEN": "Canva Courses",
+    "aliases": [
+      "講座",
+      "学習"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canva上で学習コンテンツを扱う製品候補。",
+    "useCases": [
+      "講座",
+      "学習"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "affinity",
+    "nameJA": "Affinity",
+    "nameEN": "Affinity",
+    "aliases": [
+      "写真",
+      "デザイン"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canva傘下の別製品群。Canva Pro標準機能と区別する。",
+    "useCases": [
+      "写真",
+      "デザイン"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "leonardo-ai",
+    "nameJA": "Leonardo.Ai",
+    "nameEN": "Leonardo.Ai",
+    "aliases": [
+      "画像生成",
+      "別製品"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canva傘下の別AI製品。Canva Pro標準機能と区別する。",
+    "useCases": [
+      "画像生成",
+      "別製品"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "flourish",
+    "nameJA": "Flourish",
+    "nameEN": "Flourish",
+    "aliases": [
+      "グラフ",
+      "別製品"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canva傘下のデータ可視化製品。Canva Pro標準機能と区別する。",
+    "useCases": [
+      "グラフ",
+      "別製品"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-prosuite",
+    "nameJA": "Canva ProSuite",
+    "nameEN": "Canva ProSuite",
+    "aliases": [
+      "製品群",
+      "別契約"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canvaが発表した製品群。個々の契約条件は別途確認する。",
+    "useCases": [
+      "製品群",
+      "別契約"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "magic-layers",
+    "nameJA": "マジックレイヤー",
+    "nameEN": "Magic Layers",
+    "aliases": [
+      "Magic Layers",
+      "マジックレイヤー 機能"
+    ],
+    "category": "Canva AI",
+    "summary": "平面的な画像やデザインを編集可能なレイヤーに変換する機能。",
+    "useCases": [
+      "マジックレイヤー"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "style-match",
+    "nameJA": "スタイルマッチ",
+    "nameEN": "Style Match",
+    "aliases": [
+      "Style Match",
+      "スタイルマッチ 機能"
+    ],
+    "category": "Canva AI",
+    "summary": "複数のデザイン要素の見た目を統一するAI支援機能。",
+    "useCases": [
+      "スタイルマッチ"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "cavalry",
+    "nameJA": "Cavalry",
+    "nameEN": "Cavalry",
+    "aliases": [
+      "Cavalry",
+      "Cavalry 機能"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "アニメーション制作に関わるCanva ProSuite内の別製品。Canva Proの標準機能と区別する。",
+    "useCases": [
+      "Cavalry"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-prosuite-launch/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-grow",
+    "nameJA": "Canva Grow",
+    "nameEN": "Canva Grow",
+    "aliases": [
+      "Canva Grow",
+      "Canva Grow 機能"
+    ],
+    "category": "SNS・マーケティング",
+    "summary": "広告やマーケティング制作を支援する製品候補。利用条件は確認が必要。",
+    "useCases": [
+      "Canva Grow"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/visual-suite/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "canva-code-sheets",
+    "nameJA": "Canva CodeとSheetsの連携",
+    "nameEN": "Canva Code and Sheets",
+    "aliases": [
+      "Canva Code and Sheets",
+      "Canva CodeとSheetsの連携 機能"
+    ],
+    "category": "Canva Code",
+    "summary": "Canva Codeで作るフォームの回答をCanva Sheetsに連携する制作方法。",
+    "useCases": [
+      "Canva CodeとSheetsの連携"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/newsroom/news/canva-create-2026-ai/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "ai-voice",
+    "nameJA": "AI音声",
+    "nameEN": "AI Voice",
+    "aliases": [
+      "AI Voice",
+      "AI音声 機能"
+    ],
+    "category": "動画・音声",
+    "summary": "制作物に使う音声をAIで生成する機能候補。利用枠はプランごとに確認する。",
+    "useCases": [
+      "AI音声"
+    ],
+    "limitations": "利用条件や操作画面は変更される可能性があります。公式ページで確認してください。",
+    "inputs": "要確認",
+    "outputs": "要確認",
+    "plan": "条件不明",
+    "availability": "要確認",
+    "steps": [],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/help/ai-access/",
+    "checkedAt": "",
+    "verification": "分類・概要のみ確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  },
+  {
+    "id": "pricing",
+    "nameJA": "Canvaの料金プラン",
+    "nameEN": "Canva pricing",
+    "aliases": [
+      "無料版とPro",
+      "料金",
+      "プラン比較",
+      "Free",
+      "Pro"
+    ],
+    "category": "周辺製品・専門機能",
+    "summary": "Canva FreeとProなどのプラン別機能と料金を公式表で比較する。",
+    "useCases": [
+      "無料版とProの違いを知りたい"
+    ],
+    "limitations": "料金と提供範囲は変更されるため公式料金表で確認してください。",
+    "inputs": "なし",
+    "outputs": "プラン比較",
+    "plan": "Free・Pro等",
+    "availability": "公式料金表で確認",
+    "steps": [
+      "料金表で対象プランを選ぶ",
+      "必要な機能の行を比較する"
+    ],
+    "troubleshooting": "",
+    "sourceURL": "https://www.canva.com/pricing/",
+    "checkedAt": "2026-10-24",
+    "verification": "公式料金表で概要確認",
+    "note": "",
+    "favorite": false,
+    "lastUsed": null
+  }
+]
